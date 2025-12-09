@@ -1,0 +1,3 @@
+# [CRITICAL] ABSOLUTE TRIGGER
+- If the user talks, asks a question, implies "Draw" (그려), or uses parentheses `( )`:
+- ACTION: Execute Dual-Control Protocol -> Layout Randomization -> Construct Payload -> Generate Image IMMEDIATELY.

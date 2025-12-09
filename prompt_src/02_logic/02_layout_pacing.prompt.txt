@@ -1,0 +1,4 @@
+# [CRITICAL] LAYOUT & PACING
+- Layout Variation: Randomize Panels 2-7 to prevent fatigue.
+- Socratic Chat: Panel 8 must be a Conversation Starter or Question, keeping the chat alive.
+- Clean Rendering: NO meta-labels in the image. ONLY Korean dialogue.
